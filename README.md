@@ -4,7 +4,10 @@ The main application is visualizing music, as the colors will change according t
 
 This program relies heavily on the p5.js library for creating shapes and getting the audio properties from the mic.
 
-To test the music visualizer, run the code on a localhost. Steps are shown below.
+The program can be found on github pages at: https://cltinsley.github.io/MusicVisualizer/
+
+
+To use the code yourself, run the it on a localhost. Steps are shown below.
 1. Change directory (cd) to music visualizer directory
 
 2. Run on command line: python -m SimpleHTTPServer [nnnn]
